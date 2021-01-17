@@ -42,6 +42,7 @@ void AnimationManager::InitStaticGameAnimations()
 		SAnimationDefinition(EAnimationId::Idle, eTexture::Idle, sf::Vector2i(0, 0), 0, 3)
 	);
 
+
 }
 
 

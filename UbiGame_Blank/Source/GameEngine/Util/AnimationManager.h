@@ -12,7 +12,9 @@ namespace GameEngine
 		enum type
 		{	
 			R_walk,
+			
 			Idle,
+			
 			None,
 		};
 	}

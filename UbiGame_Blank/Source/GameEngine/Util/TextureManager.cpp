@@ -51,6 +51,8 @@ namespace TextureHelper
 		{
 		case  GameEngine::eTexture::Player:  return sf::Vector2f(50.f, 50.f);
 		
+
+		
 		}
 
 		return sf::Vector2f(-1.f, -1.f);

@@ -7,6 +7,7 @@
 
 using namespace Game;
 
+
 PlayerMovementComponent::PlayerMovementComponent()
 	: m_lastFaceIndex(0)
 	, m_wasFaceSwapButtonPressed(false)
@@ -87,10 +88,12 @@ void PlayerMovementComponent::Update()
 
 	GameEngine::AnimationComponent* animComponent = GetEntity()->GetComponent<GameEngine::AnimationComponent>();
 
+
+
 	if (sf::Keyboard::isKeyPressed(sf::Keyboard::Right))
 	{
 		
-			
+	
 			if (animComponent)
 			{
 				
@@ -99,23 +102,23 @@ void PlayerMovementComponent::Update()
 					animComponent->PlayAnim(GameEngine::EAnimationId::R_walk);
 				}
 
-
-
-				
 			}
 
 	}
 	else if (animComponent->GetCurrentAnimation() != GameEngine::EAnimationId::Idle)
 	{
 		animComponent->PlayAnim(GameEngine::EAnimationId::Idle);
-	}
-	if (sf::Keyboard::isKeyPressed(sf::Keyboard::Left))
-	{
-	
+		
 	}
 	
 
+
 	//Update the entity position with new velocity
 	GetEntity()->SetPos(GetEntity()->GetPos() + wantedVel);
+
+}
+
+void current_animation()
+{
 
 }
