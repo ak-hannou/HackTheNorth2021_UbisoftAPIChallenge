@@ -84,6 +84,9 @@
     <ClCompile Include="..\..\..\..\..\..\Downloads\Hackathon\HackersNest-main\UbiGame_Blank\Source\GameEngine\Util\PlayerCameraComponenet.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Source\GameEngine\EntitySystem\Components\PawnPhysicsComponent.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Source\GameEngine\GameEngineMain.h">
@@ -147,6 +150,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="..\..\..\..\..\..\Downloads\Hackathon\HackersNest-main\UbiGame_Blank\Source\GameEngine\Util\PlayerCameraComponent.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\GameEngine\EntitySystem\Components\PawnPhysicsComponent.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -21,7 +21,9 @@ namespace GameEngine
 
 		//For Tilled texture support, can be ignored for simple one file textures
 		void SetTileIndex(sf::Vector2i vect) { m_tileIndex = vect; }
-		void SetTileIndex(int xIdx, int yIdx) { m_tileIndex = sf::Vector2i(xIdx, yIdx); }		
+		void SetTileIndex(int xIdx, int yIdx) { m_tileIndex = sf::Vector2i(xIdx, yIdx); }	
+
+		void SetMirrored(bool mirrored) { m_isMirrored = mirrored; }
 
 	private:
 		void UpdateTileRect();
@@ -33,6 +35,8 @@ namespace GameEngine
 		sf::Sprite m_sprite;
 		//Only needed if animation is supported for entity
 		AnimationComponent* m_animComponent;
+
+		bool m_isMirrored;
 	};
 }
 

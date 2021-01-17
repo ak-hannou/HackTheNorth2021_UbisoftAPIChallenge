@@ -21,6 +21,11 @@ namespace Game
 	private:
 		void CreatePlayer();
 		GameEngine::Entity* m_player;
+		GameEngine::Entity* m_text;
+		GameEngine::Entity* m_floor;
+		GameEngine::Entity* m_bridge;
+		GameEngine::Entity* m_penguin;
+		GameEngine::Entity* m_black;
 		void CreateBackground();
 		GameEngine::Entity* background;
 

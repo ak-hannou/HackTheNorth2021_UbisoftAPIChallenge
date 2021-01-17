@@ -1,16 +1,21 @@
 ﻿  GameBoard.cpp
   UbiGame.vcxproj -> C:\Users\mattw\OneDrive\Documents\Programming\Git Hub\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\bin\x64\Debug\UbiGame.exe
   C:\Users\mattw\OneDrive\Documents\Programming\Git Hub\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\Resources\Background.png
+  C:\Users\mattw\OneDrive\Documents\Programming\Git Hub\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\Resources\berry.png
   C:\Users\mattw\OneDrive\Documents\Programming\Git Hub\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\Resources\bird.png
+  C:\Users\mattw\OneDrive\Documents\Programming\Git Hub\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\Resources\bridge.png
+  C:\Users\mattw\OneDrive\Documents\Programming\Git Hub\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\Resources\brokenBridge.png
   C:\Users\mattw\OneDrive\Documents\Programming\Git Hub\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\Resources\cat.png
   C:\Users\mattw\OneDrive\Documents\Programming\Git Hub\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\Resources\forestBackground.jpg
   C:\Users\mattw\OneDrive\Documents\Programming\Git Hub\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\Resources\forestBackground.png
   C:\Users\mattw\OneDrive\Documents\Programming\Git Hub\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\Resources\Idle.png
   C:\Users\mattw\OneDrive\Documents\Programming\Git Hub\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\Resources\Idle2.png
+  C:\Users\mattw\OneDrive\Documents\Programming\Git Hub\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\Resources\penguin.png
   C:\Users\mattw\OneDrive\Documents\Programming\Git Hub\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\Resources\PLACE_YOUR_RESOURCES_HERE
   C:\Users\mattw\OneDrive\Documents\Programming\Git Hub\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\Resources\Player.png
   C:\Users\mattw\OneDrive\Documents\Programming\Git Hub\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\Resources\player_left.png
-  10 File(s) copied
+  C:\Users\mattw\OneDrive\Documents\Programming\Git Hub\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\Resources\Fonts\Good Mood.ttf
+  15 File(s) copied
   C:\Users\mattw\OneDrive\Documents\Programming\Git Hub\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\..\SFML-2.5.0\bin\openal32.dll
   C:\Users\mattw\OneDrive\Documents\Programming\Git Hub\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\..\SFML-2.5.0\bin\sfml-audio-2.dll
   C:\Users\mattw\OneDrive\Documents\Programming\Git Hub\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\..\SFML-2.5.0\bin\sfml-audio-d-2.dll

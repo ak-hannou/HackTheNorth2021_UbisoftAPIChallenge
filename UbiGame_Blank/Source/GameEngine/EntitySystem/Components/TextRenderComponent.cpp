@@ -36,7 +36,7 @@ void TextRenderComponent::SetString(std::string displayString)
 void TextRenderComponent::SetFont(std::string fontFile)
 {
     std::string filePath;
-    filePath.append("Resources/fonts/");
+    filePath.append("Resources/Fonts/");
     filePath.append(fontFile);
     if (!m_font.loadFromFile(filePath))
     {

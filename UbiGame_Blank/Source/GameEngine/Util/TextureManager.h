@@ -11,13 +11,13 @@ namespace GameEngine
 		enum type
 		{
 			None = -1,
-
 			Player,
-		
 			Idle,
-
 			forestBackground, 
-			
+			bridge,
+			brokenBridge,
+			penguin,
+			berry,
 			Count,
 		};
 	}	
@@ -28,10 +28,13 @@ namespace GameEngine
 		{
 		case eTexture::Player: return "Player.png";
 		case eTexture::Idle: return "Idle.png";
-		case eTexture::forestBackground: return "forestBackground.jpg";
+		case eTexture::forestBackground: return "forestBackground.png";
+		case eTexture::bridge: return "bridge.png";
+		case eTexture::brokenBridge: return "brokenBridge.png";
+		case eTexture::penguin: return "penguin.png";
+		case eTexture::berry: return "berry.png";
 
 		}
-
 
 		return "UnknownTexType";
 	}

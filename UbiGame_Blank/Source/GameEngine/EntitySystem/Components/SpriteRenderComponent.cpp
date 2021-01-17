@@ -111,6 +111,16 @@ void SpriteRenderComponent::Render(sf::RenderTarget* target)
 	m_sprite.setPosition(GetEntity()->GetPos());
 	m_sprite.setRotation(GetEntity()->GetRot());
 
+	if (m_isMirrored)
+	{
+		m_sprite.setScale(sf::Vector2f(-1.f, 1.f));
+	}
+
+	else
+		m_sprite.setScale(sf::Vector2f(1.f, 1.f));
 
 	target->draw(m_sprite);
+
+
+
 }

@@ -17,5 +17,7 @@ namespace Game
 		int m_lastFaceIndex;
 		bool m_wasFaceSwapButtonPressed;
 		GameEngine::AnimationComponent* m_animComponent;
+
+		bool m_wasJumpButtonPressed;
 	};
 }
