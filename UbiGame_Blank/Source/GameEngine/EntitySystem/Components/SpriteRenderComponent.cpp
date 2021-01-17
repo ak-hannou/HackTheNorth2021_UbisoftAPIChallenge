@@ -3,6 +3,7 @@
 #include "GameEngine/GameEngineMain.h"
 
 using namespace GameEngine;
+//Hello
 
 SpriteRenderComponent::SpriteRenderComponent()	
 	: m_texture(eTexture::None)
