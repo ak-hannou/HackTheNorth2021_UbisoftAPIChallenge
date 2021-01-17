@@ -1,31 +1,25 @@
-﻿  ParticleEmitterComponent.cpp
-  AnimationManager.cpp
-  AnimationComponent.cpp
-  PlayerMovementComponent.cpp
-  GameBoard.cpp
-  GameEngineMain.cpp
-  TextureManager.cpp
-  SpriteRenderComponent.cpp
-  Generating Code...
-  UbiGame.vcxproj -> C:\Users\bsun7\Desktop\Hack the North 2021\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\bin\x64\Debug\UbiGame.exe
-  C:\Users\bsun7\Desktop\Hack the North 2021\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\Resources\Background.png
-  C:\Users\bsun7\Desktop\Hack the North 2021\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\Resources\bird.png
-  C:\Users\bsun7\Desktop\Hack the North 2021\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\Resources\cat.png
-  C:\Users\bsun7\Desktop\Hack the North 2021\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\Resources\Idle.png
-  C:\Users\bsun7\Desktop\Hack the North 2021\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\Resources\Idle2.png
-  C:\Users\bsun7\Desktop\Hack the North 2021\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\Resources\PLACE_YOUR_RESOURCES_HERE
-  C:\Users\bsun7\Desktop\Hack the North 2021\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\Resources\Player.png
-  C:\Users\bsun7\Desktop\Hack the North 2021\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\Resources\player_left.png
-  8 File(s) copied
-  C:\Users\bsun7\Desktop\Hack the North 2021\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\..\SFML-2.5.0\bin\openal32.dll
-  C:\Users\bsun7\Desktop\Hack the North 2021\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\..\SFML-2.5.0\bin\sfml-audio-2.dll
-  C:\Users\bsun7\Desktop\Hack the North 2021\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\..\SFML-2.5.0\bin\sfml-audio-d-2.dll
-  C:\Users\bsun7\Desktop\Hack the North 2021\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\..\SFML-2.5.0\bin\sfml-graphics-2.dll
-  C:\Users\bsun7\Desktop\Hack the North 2021\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\..\SFML-2.5.0\bin\sfml-graphics-d-2.dll
-  C:\Users\bsun7\Desktop\Hack the North 2021\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\..\SFML-2.5.0\bin\sfml-network-2.dll
-  C:\Users\bsun7\Desktop\Hack the North 2021\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\..\SFML-2.5.0\bin\sfml-network-d-2.dll
-  C:\Users\bsun7\Desktop\Hack the North 2021\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\..\SFML-2.5.0\bin\sfml-system-2.dll
-  C:\Users\bsun7\Desktop\Hack the North 2021\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\..\SFML-2.5.0\bin\sfml-system-d-2.dll
-  C:\Users\bsun7\Desktop\Hack the North 2021\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\..\SFML-2.5.0\bin\sfml-window-2.dll
-  C:\Users\bsun7\Desktop\Hack the North 2021\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\..\SFML-2.5.0\bin\sfml-window-d-2.dll
+﻿  GameBoard.cpp
+  UbiGame.vcxproj -> C:\Users\mattw\OneDrive\Documents\Programming\Git Hub\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\bin\x64\Debug\UbiGame.exe
+  C:\Users\mattw\OneDrive\Documents\Programming\Git Hub\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\Resources\Background.png
+  C:\Users\mattw\OneDrive\Documents\Programming\Git Hub\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\Resources\bird.png
+  C:\Users\mattw\OneDrive\Documents\Programming\Git Hub\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\Resources\cat.png
+  C:\Users\mattw\OneDrive\Documents\Programming\Git Hub\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\Resources\forestBackground.jpg
+  C:\Users\mattw\OneDrive\Documents\Programming\Git Hub\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\Resources\forestBackground.png
+  C:\Users\mattw\OneDrive\Documents\Programming\Git Hub\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\Resources\Idle.png
+  C:\Users\mattw\OneDrive\Documents\Programming\Git Hub\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\Resources\Idle2.png
+  C:\Users\mattw\OneDrive\Documents\Programming\Git Hub\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\Resources\PLACE_YOUR_RESOURCES_HERE
+  C:\Users\mattw\OneDrive\Documents\Programming\Git Hub\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\Resources\Player.png
+  C:\Users\mattw\OneDrive\Documents\Programming\Git Hub\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\Resources\player_left.png
+  10 File(s) copied
+  C:\Users\mattw\OneDrive\Documents\Programming\Git Hub\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\..\SFML-2.5.0\bin\openal32.dll
+  C:\Users\mattw\OneDrive\Documents\Programming\Git Hub\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\..\SFML-2.5.0\bin\sfml-audio-2.dll
+  C:\Users\mattw\OneDrive\Documents\Programming\Git Hub\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\..\SFML-2.5.0\bin\sfml-audio-d-2.dll
+  C:\Users\mattw\OneDrive\Documents\Programming\Git Hub\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\..\SFML-2.5.0\bin\sfml-graphics-2.dll
+  C:\Users\mattw\OneDrive\Documents\Programming\Git Hub\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\..\SFML-2.5.0\bin\sfml-graphics-d-2.dll
+  C:\Users\mattw\OneDrive\Documents\Programming\Git Hub\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\..\SFML-2.5.0\bin\sfml-network-2.dll
+  C:\Users\mattw\OneDrive\Documents\Programming\Git Hub\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\..\SFML-2.5.0\bin\sfml-network-d-2.dll
+  C:\Users\mattw\OneDrive\Documents\Programming\Git Hub\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\..\SFML-2.5.0\bin\sfml-system-2.dll
+  C:\Users\mattw\OneDrive\Documents\Programming\Git Hub\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\..\SFML-2.5.0\bin\sfml-system-d-2.dll
+  C:\Users\mattw\OneDrive\Documents\Programming\Git Hub\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\..\SFML-2.5.0\bin\sfml-window-2.dll
+  C:\Users\mattw\OneDrive\Documents\Programming\Git Hub\HackTheNorth2021_UbisoftAPIChallenge\UbiGame_Blank\..\SFML-2.5.0\bin\sfml-window-d-2.dll
   11 File(s) copied

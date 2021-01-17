@@ -78,6 +78,12 @@
     <ClCompile Include="Source\Game\Components\PlayerMovementComponent.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\Downloads\Hackathon\HackersNest-main\UbiGame_Blank\Source\GameEngine\Util\LinkedEntityComponent.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\Downloads\Hackathon\HackersNest-main\UbiGame_Blank\Source\GameEngine\Util\PlayerCameraComponenet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Source\GameEngine\GameEngineMain.h">
@@ -135,6 +141,12 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Source\Game\Components\PlayerMovementComponent.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Downloads\Hackathon\HackersNest-main\UbiGame_Blank\Source\GameEngine\Util\LinkedEntityComponent.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Downloads\Hackathon\HackersNest-main\UbiGame_Blank\Source\GameEngine\Util\PlayerCameraComponent.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

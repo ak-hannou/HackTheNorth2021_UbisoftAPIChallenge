@@ -163,6 +163,8 @@ XCOPY "$(SolutionDir)..\SFML-2.5.0\bin" "$(TargetDir)" /S /Y /I</Command>
     </PostBuildEvent>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\..\..\..\..\Downloads\Hackathon\HackersNest-main\UbiGame_Blank\Source\GameEngine\Util\LinkedEntityComponent.cpp" />
+    <ClCompile Include="..\..\..\..\..\..\Downloads\Hackathon\HackersNest-main\UbiGame_Blank\Source\GameEngine\Util\PlayerCameraComponenet.cpp" />
     <ClCompile Include="Source\GameEngine\EntitySystem\Components\TextRenderComponent.cpp" />
     <ClCompile Include="Source\GameEngine\Util\CameraManager.cpp" />
     <ClCompile Include="Source\GameEngine\EntitySystem\Components\ParticleComponent.cpp" />
@@ -185,6 +187,8 @@ XCOPY "$(SolutionDir)..\SFML-2.5.0\bin" "$(TargetDir)" /S /Y /I</Command>
     <ClCompile Include="Source\GameEngine\EntitySystem\Components\SpriteRenderComponent.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\..\..\..\..\Downloads\Hackathon\HackersNest-main\UbiGame_Blank\Source\GameEngine\Util\LinkedEntityComponent.h" />
+    <ClInclude Include="..\..\..\..\..\..\Downloads\Hackathon\HackersNest-main\UbiGame_Blank\Source\GameEngine\Util\PlayerCameraComponent.h" />
     <ClInclude Include="Source\GameEngine\EntitySystem\Components\TextRenderComponent.h" />
     <ClInclude Include="Source\GameEngine\Util\CameraManager.h" />
     <ClInclude Include="Source\GameEngine\EntitySystem\Components\ParticleComponent.h" />

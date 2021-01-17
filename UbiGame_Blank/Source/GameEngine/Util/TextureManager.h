@@ -12,13 +12,12 @@ namespace GameEngine
 		{
 			None = -1,
 
-			//AddYourTexturesEnumerationsHere, // Replace this for your own enumerations
-
 			Player,
 		
 			Idle,
-			
 
+			forestBackground, 
+			
 			Count,
 		};
 	}	
@@ -29,6 +28,7 @@ namespace GameEngine
 		{
 		case eTexture::Player: return "Player.png";
 		case eTexture::Idle: return "Idle.png";
+		case eTexture::forestBackground: return "forestBackground.jpg";
 
 		}
 
@@ -58,7 +58,6 @@ namespace GameEngine
 namespace TextureHelper
 {
 	sf::Vector2f GetTextureTileSize(GameEngine::eTexture::type texture);
-
-
+	
 }
 
